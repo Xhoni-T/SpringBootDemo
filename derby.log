@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 09 12:53:57 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0182-823d-605d-00000259cdd0 
+on database directory memory:C:\Users\hp\Spring boot\SpringBootYouTube\6fa32c2b-4368-49c9-acb5-0f2483a5686a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+Loaded from file:/C:/Users/hp/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17+35
+user.dir=C:\Users\hp\Spring boot\SpringBootYouTube
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
